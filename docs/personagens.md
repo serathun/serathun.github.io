@@ -10,7 +10,7 @@ hide: false
 # Mesas
 
 - One Shot - Um Feliz Ano Morto (20/03/2021)
-    - <a href="./pcs/one-shot-feliz-ano-morto/lionel.html">Lionel</a>
+    - <a href="./pcs/one-shot-feliz-ano-morto/lionell.html">Lionell</a>
     - <a href="./pcs/one-shot-feliz-ano-morto/nemix.html">Nemix</a>
     - <a href="./pcs/one-shot-feliz-ano-morto/oda.html">Oda</a>
     - <a href="./pcs/one-shot-feliz-ano-morto/odahviing.html">Odahviing</a>
