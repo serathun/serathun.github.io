@@ -1,0 +1,32 @@
+---
+title: Player Characters
+layout: page
+icon: fa-users
+icon-style: solid
+order: 3
+hide: false
+---
+
+# Mesas
+
+- One Shot - Um Feliz Ano Morto (20/03/2021)
+    - <a href="./pcs/one-shot-feliz-ano-morto/lionel.html">Lionel</a>
+    - <a href="./pcs/one-shot-feliz-ano-morto/nemix.html">Nemix</a>
+    - <a href="./pcs/one-shot-feliz-ano-morto/oda.html">Oda</a>
+    - <a href="./pcs/one-shot-feliz-ano-morto/odahviing.html">Odahviing</a>
+    - <a href="./pcs/one-shot-feliz-ano-morto/tyor.html">Tyor</a>
+    - <a href="./pcs/one-shot-feliz-ano-morto/volkorion.html">Volkorion</a>
+
+- Curse of Strahd (WIP)
+
+- Reinos Divididos (Mesa 1 WIP)
+
+
+
+
+
+
+
+
+
+

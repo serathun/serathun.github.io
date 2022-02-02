@@ -5,4 +5,5 @@ title: Home
 layout: home
 icon: fa-home
 icon-style: solid
+order: 1
 ---
