@@ -1,5 +1,5 @@
 ---
-title: Lionel
+title: Lionell
 layout: page
 hide: true
 ---
