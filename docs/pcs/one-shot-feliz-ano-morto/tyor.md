@@ -6,7 +6,7 @@ hide: true
 
 > <img src="../../assets/players_photos/asas.png" alt="Tyor" width="350"/>
 >
-> "Eu posso não saber seus métodos, mas eles não sabem os meus." 
+> <a href="https://www.youtube.com/watch?v=7g1B7SxHZec" target="_blank">"Eu consigo sentir... o que ela sente... OS SENTIDOS!!!"</a>
 >
 > *-Tyor*
 

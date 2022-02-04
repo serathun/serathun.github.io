@@ -4,7 +4,7 @@ layout: page
 hide: true
 ---
 
-> <img src="../../assets/players_photos/asas.png" alt="Odahviing" width="350"/>
+> <img src="../../assets/players_photos/odahviing.png" alt="Odahviing" width="350"/>
 >
 > "Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn" 
 >
