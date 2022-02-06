@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Enciclopédia
+title: Arquivos
 icon: fa-book
 icon-style: solid
 order: 2
