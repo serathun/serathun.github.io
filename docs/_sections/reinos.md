@@ -1,5 +1,5 @@
 ---
-title: Os Reinos.
+title: Os Reinos
 icon: fa-globe-americas
 order: 3
 ---

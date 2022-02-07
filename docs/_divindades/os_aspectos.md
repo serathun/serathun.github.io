@@ -1,14 +1,14 @@
 ---
-title: Divindades
+title: Os Apectos
+cover-photo: assets/images/banner.jpg
+cover-photo-alt: Divindades - Cover
 layout: page
 icon: fa-cloud
-icon-style: solid
-order: 3
-hide: false
+order: 1
 ---
 
-Yana, rainha do Sol <br>
-Duna, rainha da Lua 
+<a href="#yana" class="scrolly">Yana</a>, rainha do Sol <br>
+<a href="#yana" class="scrolly">Nyva</a>, rainha da Lua 
 
 Lyria, princesa da Luz <br>
 Aashyx, príncipe das Trevas 
@@ -16,8 +16,10 @@ Aashyx, príncipe das Trevas
 O Grande Sonhador, aspecto do Vazio 
 
 Shivaah, aspecto da Natureza <br>
-Mona, aspecto do Mar <br>
+Moana, aspecto do Mar <br>
 Gilgeth, aspecto da Terra <br>
+Taysha, aspecto do Fogo <br>
+Zephyr, aspecto do Vento <br>
 Talon, aspecto da Tempestade <br>
 Eeros, aspecto da Guerra <br>
 Gafeel, aspecto do Conhecimento <br>
@@ -26,6 +28,6 @@ Oryx, aspecto da Morte <br>
 Nyx, aspecto da Justiça <br>
 Simic, aspecto do Tempo <br>
 Tsara, aspecto do Sonho <br>
-Voana, aspecto da Verdade <br>
+Brihna, aspecto da Verdade <br>
 Huttarr, aspecto da Mentira <br>
 Sydum, aspecto da Arte <br>
