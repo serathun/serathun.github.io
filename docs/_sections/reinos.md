@@ -11,6 +11,7 @@ Serathun é composta de dois continentes vizinhos. O Oeste atualmente é comanda
 Nos anos atuais que se passam, os dois reinos estão em paz. Algo que nem sempre aconteceu.
 Yohun e Aretuza já guerriaram antigamente buscando pela conquista dos dois continentes irmãos. A recente conquista de paz pelos reis Gelebor de Aretuza e Jornn de Yohun chegaram a conclusão que as guerras que seus antepassados faziam nunca resolveram nada, e só espalharam caos, sangue e lágrimas pelos continentes. O Tratado dos Gêmeos foi assinado a 5 anos, e por mais que não tenha encerrado a rixa racial entre Elfos, Humanos e Anões, impôs ao menos um respeito mutûo dos reinos.
 
+---
 # <ins>**Aretuza**</ins>
 
 O Reino de Aretuza é responsável pelos territórios de Quan'Go, Partali, Valen e Kaen'Shaed.
@@ -19,6 +20,7 @@ Partali é a sede das grandes atividades poroeiras do lado Oeste. Os primeiros p
 Os desertos de Valen são o refúgio para aqueles que não concordam com as leis. As cidades do deserto formam a trindade sem-lei, onde todas as práticas criminais surgem e se espalham pelos dois continentes. As guardas reais se quer tem coragem de tentar impor regras nos locais, pois por mais ilegal que seja, os Príncipes da Areia costumam vir as Capitais com investimentos gigantescos aos bancos, em troca de certa vista Grossa dos Reinados.
 Kaen'Sahed foi o primeiro lar dos Elfos. Suas florestas mágicas impressionam até o mais bruto dos homens, e a arquitetura de suas cidades deixam até o mais sábio dos homens catatônico.
 
+---
 # <ins>**Yohun**</ins>
 
 O Reino de Yohun é responsável pelos territórios das Florestas de Tsenk e pelas Cordilheiras de Bandork.
@@ -27,4 +29,4 @@ As Cordilheiras de Bandork são pouco abitadas, exceto das diversas tribos de Or
 
 Por mais que sejam os responsáveis pelas ilhas, os reinos dão liberdade aos outros estados e cidades, tanto no sentido econômico quanto legislativo. É cobrado apenas uma taxa mensal para manutenção das terras do reino central, em troca de segurança dos reinos e envio de suprimentos com frequência
 
-A Magia em Serathun surgiu durante uma das milhares de guerras que assolaram os continentes. As lendas e escrituras atestam que a magia surgiu quando Gafeel, Deus do conhecimento, decidiu ir contra as decisões do Conselho dos Deuses. Ele acreditava que, ao ensinar sobre o Aether para os humanos, seria possível que eles entendessem melhor sobre os conceitos de sua natureza. Os mortais no entando, utilizaram dessa informação para pesquisar e finalmente descobrir sobre a manipulação do Aether, dando inicio a Era da Magia. Gafeel então foi expulso do panteão, perdendo sua imortalidade e sendo condenado a viver no plano terreno como um dragão. Disso surgiram as primeiras linhagens de dragão de Serathun.
+
