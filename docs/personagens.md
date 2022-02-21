@@ -3,7 +3,7 @@ title: Player Characters
 layout: page
 icon: fa-users
 icon-style: solid
-order: 4
+order: 5
 hide: false
 ---
 

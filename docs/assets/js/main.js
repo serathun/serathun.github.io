@@ -48,6 +48,7 @@
 			var $nav_a = $('#nav a.scrolly');
 
 			// Scrolly-fy links.
+			if($nav_a.scrolly()){
 				$nav_a
 					.scrolly()
 					.on('click', function(e) {
@@ -69,6 +70,7 @@
 							t.addClass('active');
 
 					});
+			}
 
 			// Initialize scrollzer.
 				var ids = [];
