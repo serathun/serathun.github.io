@@ -12,7 +12,7 @@ Por mais que sua origem tenha sido pelo lado negro do equilíbrio, Nyva nem semp
 
 Nyva, após a Conjunção, seguia seus instintos buscando fortalecer a si mesma com as forças da sombra. Todavia, não esperava que seria confrontada por si mesma e pelos seus instintos mais... humanos (por mais irônico que isso soe). 
 
-Nyva se apaixonou por Yana e deu as costas para os príncipios maléficos de sua entidade, e ambas seguiram para ploriferar Serathun em equilíbrio. 
+Nyva se apaixonou por Yana e deu as costas para os príncipios maléficos de sua entidade, e ambas seguiram para proliferar Serathun em equilíbrio. 
 
 Os seguidores da deusa da Lua se chamam Lunares, tendo seus Paladinos e Clérigos guidaos pela Ordem da Lua. 
 

@@ -21,3 +21,10 @@ Durante a guerra finalmente Lionell pode explorar o seu lado selvagem, seu esqua
 Por ajudar a salvar as vidas ele ganhou uma medalha e por tirar a de tantos outros ele foi temido e debandado do exército no último ano da guerra, então ele caiu em desgraça, todo mês sua maldição se repetia, todo estresse a sanguinolência voltava, Lionell desesperado caiu em desgraça, abusando de álcool e drogas hoje ele se encontra como um mendigo em Kiassara, poucos sabem exatamente quem ele é ou oq ele é, toda vez no mês ele foge para as florestas para se transformar.
 
 Apesar de tudo Lionell busca uma forma de se redimir e poder salvar vidas de novo e com isso alcançar a paz em si mesmo antes de partir, todo o ano ele leva flores e divide bebidas no túmulo dos membros de seu esquadrão, um rito de passagem, porém um novo ano se aproxima, será uma chance de Lionell poder finalmente alcançar a sua tão desejada paz?...
+
+<style>
+    img {
+    max-width: 100%;
+    height: auto;
+  }
+</style>

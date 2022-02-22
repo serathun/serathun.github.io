@@ -19,3 +19,10 @@ Vindo das partes mais remotas dos Monastérios, Oda era o mais disciplinado e eq
 Com os acordos de paz entre os reinos, os Samurais perderam sua principal função na sociedade. Alguns, buscando motivações para continuar seus caminhos, viraram mercenários e assassinos de aluguel. Foi o início do fim para os clãs Samurais... mas não para um homem. 
 
 Oda hoje busca reunir aqueles que ainda seguem o caminho original dos Samurais, recriar a família que perdeu na queda e reestruturar a honra dos Clãs Samurais. 
+
+<style>
+    img {
+    max-width: 100%;
+    height: auto;
+  }
+</style>

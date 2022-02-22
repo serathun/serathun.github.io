@@ -17,3 +17,11 @@ Odaving ainda muito jovem descobriu seu ancestral parentesco com um lendário dr
 Utilizando-se deste conhecimento, Odaviing cresceu rapidamente na vida acadêmica, se desempenhando excepcionalmente bem, já que detinha os controles do tempo, podendo retornar ao passado e tomar novas escolhas, decidir novos caminhos.
 
 Sempre ansiando por novas aventuras Odaviing se aventura atrás de conhecimento seguindo a tutoria de seu ancião Cthulhu, ouvindo seus segredos atemporais, ouvindo seus sussurros de conselhos, e deleitando-se nos mais profundos sonhos, cujos quais os humanos nem passam perto no que chamam de dormir.
+
+
+<style>
+    img {
+    max-width: 100%;
+    height: auto;
+  }
+</style>

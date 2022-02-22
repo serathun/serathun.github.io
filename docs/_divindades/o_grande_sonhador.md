@@ -22,8 +22,10 @@ Por ter sido banido do Panteão dos Deuses, acredita-se que sua forma real seja 
 
 ---
 
-O primeiro arauto do Grande Sonhador é Nadya' Saphesh. Na mitologia de Serathun, ela é uma cria do abismo, um ser de 999 faces e 999 nomes. Conhecida como "O Caos Rastejante", ela é a mensageira do Grande Sonhador e recrutadora de cultistas. Acredita-se que sua influência seja tão grande que ela é responsável por converter um aspecto para o abismo, atualmente conhecido como Aashyx.
-
 <img src="../../assets/divindades/nadya_saphesh.jpg" alt="Nadya' Saphesh, a primeira arauta" width="400"/>
 
 *Nadya' Saphesh, o Caos Castejante, Primeiro Arauto do Grande Sonhador*
+
+O primeiro arauto do Grande Sonhador é Nadya' Saphesh. Na mitologia de Serathun, ela é uma cria do abismo, um ser de 999 faces e 999 nomes. Conhecida como "O Caos Rastejante", ela é a mensageira do Grande Sonhador e recrutadora de cultistas. Acredita-se que sua influência seja tão grande que ela é responsável por converter um aspecto para o abismo, atualmente conhecido como Aashyx.
+
+
