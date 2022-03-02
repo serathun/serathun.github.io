@@ -8,7 +8,7 @@ order: 1
 ---
 
 <a href="#yana" class="scrolly">Yana</a>, rainha do Sol <br>
-<a href="#yana" class="scrolly">Nyva</a>, rainha da Lua 
+<a href="#nyva" class="scrolly">Nyva</a>, rainha da Lua 
 
 <a href="#lyria" class="scrolly">Lyria</a>, princesa da Luz <br>
 <a href="#aashyx" class="scrolly">Aashyx</a>, príncipe das Trevas 
