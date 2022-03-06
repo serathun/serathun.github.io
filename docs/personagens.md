@@ -17,8 +17,9 @@ hide: false
     - <a href="./pcs/one-shot-feliz-ano-morto/tyor.html">Tyor</a>
     - <a href="./pcs/one-shot-feliz-ano-morto/volkorion.html">Volkorion</a>
 
-- Curse of Strahd (WIP)
-
+- Curse of Strahd 
+    - <a href="./pcs/curse-of-strahd/yoskolo.html">Yoskolo Frødmundsson</a>
+    - <a href="./pcs/curse-of-strahd/galahad.html">Galahad Sanguine</a>
 - Reinos Divididos (Mesa 1 WIP)
 
 
