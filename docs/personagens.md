@@ -20,7 +20,7 @@ hide: false
 - Curse of Strahd 
     - <a href="./pcs/curse-of-strahd/yoskolo.html">Yoskolo Frødmundsson</a>
     - <a href="./pcs/curse-of-strahd/galahad.html">Galahad Sanguine</a>
-    - <a href="./pcs/curse-of-strahd/castiel.html">Castiel</a>
+    - <a href="./pcs/curse-of-strahd/ryan.html">Ryan</a>
 - Reinos Divididos (Mesa 1 WIP)
 
 
