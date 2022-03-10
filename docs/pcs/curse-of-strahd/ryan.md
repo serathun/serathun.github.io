@@ -1,13 +1,13 @@
 ---
-title: Ryan
+title: Ryan Anluin 
 layout: page
 hide: true
 ---
 
 
-|<img src="../../assets/players_photos/ryan.jpg" alt="ryan" width="450"/>|
+|<img src="../../assets/players_photos/ryan.jpg" alt="Ryan Anluin" width="350"/>|
 |:---:|
-| *Ryan* | 
+| *Ryan Anluin, monster slayer* | 
 
 <style>
     img {
