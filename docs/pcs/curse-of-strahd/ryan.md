@@ -7,7 +7,7 @@ hide: true
 
 |<img src="../../assets/players_photos/ryan.jpg" alt="Ryan Anluin" width="350"/>|
 |:---:|
-| *Ryan Anluin, monster slayer* | 
+| *Ryan Anluin* | 
 
 <style>
     img {
