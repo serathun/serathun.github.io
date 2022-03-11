@@ -18,6 +18,7 @@ hide: false
     - <a href="./pcs/one-shot-feliz-ano-morto/volkorion.html">Volkorion</a>
 
 - Curse of Strahd 
+    - <a href="./pcs/curse-of-strahd/astor.html">Astor "Retalho" Serbine</a>
     - <a href="./pcs/curse-of-strahd/galahad.html">Galahad Sanguine</a>
     - <a href="./pcs/curse-of-strahd/ryan.html">Ryan Anluin</a>
     - <a href="./pcs/curse-of-strahd/william_booker.html">William "Booker" DeWitt</a>
