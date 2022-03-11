@@ -1,6 +1,8 @@
 ---
 title: Nyva
 layout: page
+icon: fa-moon
+icon-style: solid
 order: 3
 ---
 

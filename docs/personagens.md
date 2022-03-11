@@ -19,10 +19,10 @@ hide: false
 
 - Curse of Strahd 
     - <a href="./pcs/curse-of-strahd/astor.html">Astor "Retalho" Serbine</a>
-    - <a href="./pcs/curse-of-strahd/galahad.html">Galahad Sanguine</a>
+    - <a href="./pcs/curse-of-strahd/galahad.html">Galahad "Diácono" Sanguine</a>
     - <a href="./pcs/curse-of-strahd/ryan.html">Ryan Anluin</a>
     - <a href="./pcs/curse-of-strahd/william_booker.html">William "Booker" DeWitt</a>
-    - <a href="./pcs/curse-of-strahd/yoskolo.html">Yoskolo Frødmundsson</a>
+    - <a href="./pcs/curse-of-strahd/yoskolo.html">Yoskolo "A Fera" Frødmundsson</a>
     
 - Reinos Divididos (Mesa 1 WIP)
 

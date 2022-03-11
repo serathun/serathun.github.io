@@ -1,6 +1,8 @@
 ---
 title: Yana
 layout: page
+icon: fa-sun
+icon-style: solid
 order: 2
 ---
 
