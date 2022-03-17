@@ -3,17 +3,16 @@ title: Campanhas
 layout: page
 icon: fa-hotjar
 icon-style: brands
-order: 4
-hide: false
+order: 1
 ---
 
 ### **Curse of Strahd** <br> <br>
 
 <img src="../../assets/images/cos_cover.jpg" alt="Serathun | Curse of Strahd" width="1200"/> 
 
-- Clique <a href="./campanhas/curse_of_strahd.html">**aqui**</a> para ver o diário da campanha atualizado.
+- Clique <a href="#diário-de-campanha-cos">**aqui**</a> para ver o diário da campanha atualizado.
 
-- Clique <a href="./personagens.html">**aqui**</a> para ver os detalhes dos personagens.
+- Clique <a href="../personagens.html">**aqui**</a> para ver os detalhes dos personagens.
 
 
 >Diário de Idril <br> <br>
