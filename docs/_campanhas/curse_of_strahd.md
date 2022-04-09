@@ -9,7 +9,15 @@ order: 2
 
 <img src="../../assets/images/cos_cover.jpg" alt="Serathun | Curse of Strahd" width="1000"/> 
 
-### Sessão 1 [VOD: <a href="https://youtu.be/EL-MAl74am0" target="_blank"><ins>Parte 1</ins></a>, <a href="https://youtu.be/xKJuYHb9H-8" target="_blank"><ins>Parte 2</ins>]
+
+### Indíce: 
+
+<a href="#sessao1" class="scrolly">Sessão 1: A Chegada</a> <br>
+<a href="#sessao2" class="scrolly">Sessão 2: A Estrada para Vallaki</a> <br>
+
+
+
+### <a name="sessao1"></a> Sessão 1 [VOD: <a href="https://youtu.be/EL-MAl74am0" target="_blank"><ins>Parte 1</ins></a>, <a href="https://youtu.be/xKJuYHb9H-8" target="_blank"><ins>Parte 2</ins>]
 
 Os jogadores iniciam sua jornada na Taverna Mão de Ferro onde Galahad, Ryan e Yoskolo passavam o tempo antes da viagem. Lá, eles conhecem Booker, que incialmente disse trabalhar no local. 
 
@@ -58,3 +66,91 @@ Após discutirem suas estratégias, os jogadores partem então para dentro do qu
 Após o paralizarem com uma rede, Yoskolo enfia sua estaca no coração do vampiro, o matando. Galahad então canaliza os poderes de Kyn em sua mão para realizar uma intervenção divina. A alma de Doru é então liberada, e ela agradeçe os jogadores e ao seu pai, partindo para o além logo em seguida. 
 
 A sessão se encerra com os jogadores saindo da igreja e vendo no horizonte a silheuta do Castelo Ravenloft, se indagando o que mais os espera nessa terra amaldiçoada pelos Deuses.
+
+
+### <a name="sessao2"></a> Sessão 2 [VOD: <a href="https://youtu.be/vrIy6OIiXRo" target="_blank"><ins>Parte 1</ins></a>, <a href="https://youtu.be/g5sRUo-hvrc" target="_blank"><ins>Parte 2</ins>]
+
+A Sessão se inciou com Astor "Retalho" Serbine acordando no meio de uma floresta. Ele se lembra de estar no barco em diração a Khal Lodar, quando uma névoa tomou conta do barco. Ele se lembra apenas de uma sonolência e do barco inteiro cair desacordado em sua frente. 
+
+Na floresta, Retalho seguiu uma fonte de luz, onde encontrou um cemitério com algumas velas acesas.  
+
+<img src="../../assets/images/cemiterio_astor.png" alt="Cemitério" width="1000"/>
+
+Investigando o cemitério, ele encontra um túmulo com o nome de "Robert Ashcut", um nome que ele reconheceu de sua vida passada por mais que não se lembre de quem se trata. 
+
+Seguindo alguns rastros, ele encontra uma cripta antiga onde checa alguns vultos se movendo lá dentro, inclusive andando pelas paredes tetos do local. 
+
+<img src="../../assets/images/cripta_astor.png" alt="Cripta" width="1000"/>
+
+Seguindo mais alguns rastros para suas costas, Retalho acaba chgando em uma Taverna abandonada, onde começou a ouvir passos e os mesmos vultos o cercando através da taverna. 
+
+<img src="../../assets/images/taverna_astor.png" alt="Taverna" width="1000"/>
+
+Tomado pelo medo, Retalho pula pela janela apenas para ver atrás dele dezenas de crias vampíricas o cercando. Vendo essa cena começou a correr enquanto as crias o seguiam floresta adentro. Após um tempo, patrulheiros Barovianos ajudaram ele e o levaram até seu acampamento. 
+
+Voltando para a Igreja, Booker, Galahad, Ryan e Yoskolo estão saindo voltando para a mansão após os acontecimentos da igreja. No caminho, encontram uma idosa vendendo alguns doces pelo vilarejo juntamente com seu vagão. Em uma das casas, ela pega a força uma criança como pagamento.
+
+<img src="../../assets/images/morgantha.png" alt="Idosa" width="400"/>
+
+Os jogadores indagam então a idosa, que desconversa sobre a criança e sobre o que ela estava vendendo a princípio. Ele então oferecem pagar pela conta dos pais da criança em troca dela, ela aceita contanto que eles compre um doce para cada um deles também. Eles aceitam, e a idosa libera a criança.
+
+Seguindo para a mansão, Ismark está juntamente com Ireena e Lufir, meio-elfo trabalhador do barco que foi resgatado pelos jogadores. Ismark ofereceu abrigo para Lufir em sua mansão enquanto eles estão em viagem para Vallaki, também usando como estatégia para que ainda pensem que há alguém na casa. 
+
+Lufir informa então sobre o acordo, e também sobre a situação do continente. Os jornaleiros da região informaram antes da partida do barco sobre o desaparecimento da princesa de Yohun durante uma excursão em Aretuza. Lufir disse que se a informação for verdadeira, ele não tem tanta pressa de voltar para o continente. 
+
+Partindo durante a noite, os jogadores seguem tranquilamente pela primeira parte da estrada. Eles chegam então em uma encruzilhada. 
+
+<img src="../../assets/images/crossroads.jpg" alt="Encruzilhada" width="1000"/>
+
+Nessa encruzilhada havia uma forca, vazia. Eles então seguiram para o caminho para o acapamento do Lago Tser. Após virarem as costas, um vento cortante passa por eles, e um barulho é ouvido nas costas. Onde não havia nada antes, um corpo agora estava pendurado na forca. Todos estavam vendo apenas uma pessoa normal, todavia Galahad enxergava a si mesmo com fiéis detalhes nessa forca. 
+
+Após darem as costas para a encruzilhada, eles chegam em um acampamento dos Vistanis onde podem finalmente descansar. Lá, encontram Retalho, que reconhece os símbolos de Nyva e Kyn dos outros aventureiros. Eles passam um tempo na fogueira, onde escutam as fábulas do contador de histórias: 
+
+>“Um poderoso mago esteve nestas terras há pouco mais
+>de um ano. Lembro-me dele como se fosse ontem. Ele
+>ficou exatamente onde você está de pé. Um homem muito
+>carismático, ele era. Ele pensou que poderia reunir o povo de
+>Baróvia contra o diabo Strahd. Ele os agitou com pensamentos
+>de rebelião e os levou ao castelo em massa”
+>
+>“Quando o vampiro apareceu, o exército camponês
+>do mago fugiu apavorado. Alguns permaneceram e nunca
+>mais foram vistos.”
+>
+>“O mago e o vampiro conjuraram magias um em
+>direção ao outro. Sua batalha seguiu dos pátios de
+>Ravenloft até um precipício com vista para as cataratas. Eu
+>via batalha com meus próprios olhos. Trovões sacudiram
+>a montanha, e grandes rochas caíram sobre o mago, ainda
+>que, por sua magia, ele sobreviveu. Relâmpagos diretamente
+>dos céus atingiram o mago, e novamente ele permaneceu
+>de pé. Mas quando o demônio Strahd caiu sobre ele, sua
+>magia já não poderia salvá-lo. O vi sendo jogado a trezentos
+>metros até a sua morte. Dirigi-me ao rio para procurar o
+>corpo do mago,para ver se, vocês sabem, se ele tinha algo
+>de valor, mas o Rio lis já o havia conduzido.”
+
+<br>
+Booker saiu antes do término do cotador de fábulas para checar um vagão mais a fundo. Ele então descobre a tenda de Madame Eva, a cartomante. O contador de fábulas instruiu os outros aventureiros a fazer uma visita até lá, porém apenas Retalho se interessou. 
+
+<img src="../../assets/images/madame_eva.png" alt="Madame Eva" width="400"/>
+
+Booker, após entrar na tenda, e enquanto Madame Eva prepara um chá antes da sessão, encontra 6 cartas na mesa: Um Lobo, um Detetive, um Padre, uma Sombra, um Morto Vivo e uma carta virada para baixo. 
+
+Madame Eva então prossegue com a <a href="../../2022/04/02/leitura_das_cartas.html"><ins>Leitura das Cartas.</ins></a>
+
+Os aventureiros então seguem a estrada, porém agora dentro de carruagens Vistanis que estavam em direção a Vallaki. Após algumas horas de viagem, eles encontram uma igreja da chamada "Mãe da Noite", onde um padre pede por auxílio. Ele diz que um de seus fiéis teve uma visão de que as crias de Strahd atacariam a igreja naquele mesmo dia. Sem pestanejar, os jogadores se preparam dentro da igreja, preparando barricadas, criando óleos para as armas e barricando os fiéis e seus aliados da Vila de Barovia. 
+
+Após cerca de duas horas, os jogadores ouvem um pedido de ajuda vindo de fora da igreja. Adentrando a área de visão deles, eles vêem um humano jogado ao chão, pálido e com mordidas em seu pescoço. Retalho, agindo por impulso, atira uma flecha nessa pessoa, dando fim a sua vida. 
+
+Após isso, palmas são ouvidas por fora da estrada, e uma silhueta negra começa a se formar no horizonte, batendo palmas. Ela se revela sendo Strahd von Zarovich. 
+
+<img src="../../assets/images/strahd_von_zarovich.png" alt="Strahd Von Zarovich" width="400"/>
+
+Ele convida os jogadores para fora da igreja, que recusam de início. Dois enxames de morcegos invadem em seguida a igreja. Strahd promete retirar os exames caso eles se retirem da igreja. Após sairem, ele se apresenta melhor para eles, e diz que gosataria de testá-los. Então, duas crias vampíricas se mostram no meio deles, uma a frente e um acima deles, no telhado da igreja. 
+
+Após uma longa batalha, Strahd volta a bater palmas, dizendo-se impressionado pelas habilidades deles. Ele então os convida para um jantar em seu castelo, prometendo que eles estarão seguros. Ele então se transforma em fumaça, deixando para traz um bilhete. 
+
+<img src="../../assets/images/convite_strahd.png" alt="Convite de Strahd" width="1000"/>
+
+Eles então seguem seu caminho para Vallaki sem mais problemas, onde a sessão se encerra. 

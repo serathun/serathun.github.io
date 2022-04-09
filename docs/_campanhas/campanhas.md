@@ -10,7 +10,7 @@ order: 1
 
 <img src="../../assets/images/cos_cover.jpg" alt="Serathun | Curse of Strahd" width="1200"/> 
 
-- Clique <a href="#diário-de-campanha-cos">**aqui**</a> para ver o diário da campanha atualizado.
+- Clique <a href="#diário-de-campanha-cos" class="scrolly">**aqui**</a> para ver o diário da campanha atualizado.
 
 - Clique <a href="../personagens.html">**aqui**</a> para ver os detalhes dos personagens.
 
@@ -30,14 +30,6 @@ order: 1
 Os aventureiros estão na Taverna Mão de Ferro, na cidade de Kaville. Eles estão aguardando o expresso marítimo, um expresso comum todos os dias. Após embarcarem, são surpreendidos por uma névoa. Não uma névoa comum, mas sim uma premonição de que a vida deles vai virar um inferno nos próximos dias. O que os espera do outro lado? 
 
 <img src="../../assets/images/cos_map.png" alt="Caminho marítimo" width="1200"/> 
-
-# Regras de Curse of Strahd <br> <br> 
-
-1. Lore: vocês podem ser de qualquer estado / cidade que quiserem, até mesmo inventar sua própria, porém preciso que vocês tenham um motivo para estar em Kaville, cidade litorânea no Oeste (Partali) e um motivo para estarem viajando para Khal Lodar, cidade do interior de Yohun (leste) [detalhes das cidades mais abaixo]. 
-
-2. Classes e raças permitidas: Livro do Jogador, Tashas, Xanathar, Ravenloft. Iniciando level 1 e sem multiclasse (não me xinguem, recomendação do próprio livro).
-
-3. Subclasses / Linhagens / Dark Gifts de Revenloft: Subclasses podem ser escolhidas. Linhagens podem ser adquiridas, porém elas substituem sua raça e vocês só descobrem como liberar isso durante a campanha. Dark Gifts seguem a mesma lógica das Linhagens, todavia não esperem que isso venha sem um backfire maravilhoso. 
 
 ### As cidades.
 
