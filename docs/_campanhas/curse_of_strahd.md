@@ -143,6 +143,8 @@ Os aventureiros então seguem a estrada, porém agora dentro de carruagens Vista
 
 Após cerca de duas horas, os jogadores ouvem um pedido de ajuda vindo de fora da igreja. Adentrando a área de visão deles, eles vêem um humano jogado ao chão, pálido e com mordidas em seu pescoço. Retalho, agindo por impulso, atira uma flecha nessa pessoa, dando fim a sua vida. 
 
+<img src="../../assets/images/igreja_estrada.png" alt="Igreja na estrada" width="500"/>
+
 Após isso, palmas são ouvidas por fora da estrada, e uma silhueta negra começa a se formar no horizonte, batendo palmas. Ela se revela sendo Strahd von Zarovich. 
 
 <img src="../../assets/images/strahd_von_zarovich.png" alt="Strahd Von Zarovich" width="400"/>
