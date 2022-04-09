@@ -137,7 +137,7 @@ Booker saiu antes do término do cotador de fábulas para checar um vagão mais 
 
 Booker, após entrar na tenda, e enquanto Madame Eva prepara um chá antes da sessão, encontra 6 cartas na mesa: Um Lobo, um Detetive, um Padre, uma Sombra, um Morto Vivo e uma carta virada para baixo. 
 
-Madame Eva então prossegue com a <a href="../../2022/04/02/leitura_das_cartas.html"><ins>Leitura das Cartas.</ins></a>
+Madame Eva então prossegue com a <a href="../../2022/04/03/leitura_das_cartas.html"><ins>Leitura das Cartas.</ins></a>
 
 Os aventureiros então seguem a estrada, porém agora dentro de carruagens Vistanis que estavam em direção a Vallaki. Após algumas horas de viagem, eles encontram uma igreja da chamada "Mãe da Noite", onde um padre pede por auxílio. Ele diz que um de seus fiéis teve uma visão de que as crias de Strahd atacariam a igreja naquele mesmo dia. Sem pestanejar, os jogadores se preparam dentro da igreja, preparando barricadas, criando óleos para as armas e barricando os fiéis e seus aliados da Vila de Barovia. 
 
