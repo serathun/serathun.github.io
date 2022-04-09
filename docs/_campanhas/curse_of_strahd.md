@@ -147,7 +147,7 @@ Após cerca de duas horas, os jogadores ouvem um pedido de ajuda vindo de fora d
 
 Após isso, palmas são ouvidas por fora da estrada, e uma silhueta negra começa a se formar no horizonte, batendo palmas. Ela se revela sendo Strahd von Zarovich. 
 
-<img src="../../assets/images/strahd_von_zarovich.png" alt="Strahd Von Zarovich" width="400"/>
+<img src="../../assets/images/strahd_von_zarovich.png" alt="Strahd Von Zarovich" width="700"/>
 
 Ele convida os jogadores para fora da igreja, que recusam de início. Dois enxames de morcegos invadem em seguida a igreja. Strahd promete retirar os exames caso eles se retirem da igreja. Após sairem, ele se apresenta melhor para eles, e diz que gosataria de testá-los. Então, duas crias vampíricas se mostram no meio deles, uma a frente e um acima deles, no telhado da igreja. 
 
