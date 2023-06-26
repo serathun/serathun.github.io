@@ -12,8 +12,11 @@ order: 2
 
 ### Indíce: 
 
-<a href="#sessao1" class="scrolly">Sessão 1: A Chegada</a> <br>
-<a href="#sessao2" class="scrolly">Sessão 2: A Estrada para Vallaki</a> <br>
+<a href="#sessao1" class="scrolly">Sessão 1: A Chegada.</a> <br>
+<a href="#sessao2" class="scrolly">Sessão 2: A Estrada para Vallaki.</a> <br>
+<a href="#sessao3" class="scrolly">Sessão 3: Tudo está bem!</a> <br>
+<a href="#sessao4" class="scrolly">Sessão 4: A Invasão e o Massacre.</a> <br>
+<a href="#sessao5" class="scrolly">Sessão 5: O Mago dos Vinhos.</a> <br>
 
 
 
@@ -29,7 +32,7 @@ Os jogadores então partem para o barco, que durante a noite é cercado por uma 
 
 <img src="../../assets/images/esqueleto_cos.jpg" alt="Esqueleto" width="350"/> 
 
-Após derrotarem seus inimigos, o barco ainda em névoa se choca com uma pedra gigantesca e naufrága. Após algumas horas, eles acordam na beira de uma praia, com o barco semi destruído ao lado, o capitão e alguns trabalhadores ao lado deles. Após saírem da praia juntamente com um dos trabalhadores (Lufir), eles seguem em direção a dentro da ilha. 
+Após derrotarem seus inimigos, o barco ainda em névoa se choca com uma pedra gigantesca e naufrága. Após algumas horas, eles acordam na beira de uma praia, com o barco semi destruído ao lado, o capitão e alguns trabalhadores ao lado deles. Após saírem da praiac juntamente com um dos trabalhadores (Lufir), eles seguem em direção a dentro da ilha. 
 
 Durante a estrada os jogadores sentem um cheiro pútrido a beira da estrada e decidem checar. Lá, econtram a seguinte carta: 
 
@@ -156,3 +159,51 @@ Após uma longa batalha, Strahd volta a bater palmas, dizendo-se impressionado p
 <img src="../../assets/images/convite_strahd.png" alt="Convite de Strahd" width="1000"/>
 
 Eles então seguem seu caminho para Vallaki sem mais problemas, onde a sessão se encerra. 
+
+### <a name="sessao3"></a> Sessão 3 [VOD: <a href="https://youtu.be/87IoBpMyuyA" target="_blank"><ins>Parte 1</ins></a>]
+
+Após 4 longas horas de viagem, o grupo chega finalmente em Vallaki. Ismark entrega um mapa com os principais pontos da cidade. 
+
+<img src="../../assets/images/vallaki_map.jpg" alt="Mapa de Vallaki" width="1000"/>
+
+Ismark dá a ideia de então de deixar Ireena com o grupo enquanto eles se separam para procurar por abrigo. Ireena acredita que a Igreja de Santo Andral seria um bom lugar para se estabelecerem provisoriamente. Ismark vai então procurar por mais locais, tanto na Taverna Água Azul como na casa do Barão. 
+
+<img src="../../assets/images/igreja_sto_andral.jpg" alt="Igreja de Santo Andral" width="1000"/>
+
+Chegando na Igreja, o Padre Lucian recebe o grupo. Eles informam que estão aqui para assegurar Ireena, porém o padre informa que a igreja já não está mais segura como antes. Os ossos de Santo Andral foram roubados durante a semana e que a igreja já não possui mais sua aura divina. O padre suspeita que Milivoj, o coveiro, foi o responsável por isso. 
+
+|<img src="../../assets/images/padre_lucian.jpg" alt="Padre Lucian" width="300"/> | <img src="../../assets/images/milivoj.png" alt="Milivoj" width="400"/>|
+|:----:|:---:|
+|*Padre Lucian*|*Milivoj, o Coveiro*|
+
+Após Booker e Ryan interrogarem Yeska, um pequeno Coroinha da igreja, eles começam a investigar Milivoj.
+
+Investigando o coveiro, o grupo encontra Milivoj recebendo um pacote de uma figura mascarada, que logo em seguida desaparece. Eles então interrogam o coveiro, dizendo que invadiu a cripta e roubou os ossos para vender, conseguindo assim alimentar seu irmão. Voltando para a igreja após serem encurralados por alguns lobos, Milivoj então informa que o mascarado o pediu para entregar os ossos para o fabricante de caixões, Henrik Van der Voort, em sua oficina.  
+
+|<img src="../../assets/images/fabrica_de_caixoes.jpg" alt="Fabrica de Caixões" width="600"/>|<img src="../../assets/images/henrik.jpg" alt="Henrik Van der Voort" width="300"/>|
+|:----:|:---:|
+|*Loja do Fabricante de Caixões*|*Henrik Van der Voort*|
+
+Chegando na oficina, Retalho e Ryan invadem o local silenciosamente. Retalho fica no andar de baixo investigando a parte principal da oficina, Ryan adentra para o andar superior. Investigando o quarto de Henrik, ele encontra os ossos de Santo Andral. Adentrando no porão do outro lado do corredor, Ryan encontra algumas caixas antigas. Sua curiosidade toma conta e ao abrir uma das caixas, uma cria vampírica está dormindo. Ele consegue se afastar tranquilamente. 
+
+No cômodo ao lado, Retalho consegue encontrar em um fundo falso onde se encontra os ossos de Santo Andral. Ao sairem, Retalho tem a ideia de soltar algumas tochas na casa do fabricante de caixões, queimando todo o local. Yoskolo após ver e após ver a casa queimando, adentra o local para salvar o fabricante de caixões. Ao sairem, é possível ver um vulto saindo de uma das janelas de cima. 
+
+Ao voltarem para a igreja, os ossos são colocados em seu local e o ambiente está seguro novamente. O Padre sabendo então da fulga dos vampiros, envia os aventureiros para a casa de sua irmã, atualmente a esposa do barão Vargas Villakovich. 
+
+Chegando a casa, eles adentram para a área da biblioteca, onde encontram um livro muito útil: "Vampiros - Estudos Especializados por Rudolph V. Richten"
+
+<img src="../../assets/images/estudos-especializados-rudolph-van-richten.png" alt="Vampiros - Estudos Especializados" width="600"/>
+
+Na página seguinte, existe uma receita para um óleo que atrai crias vampíricas, que leva Sangue Humano (mais efeitov) ou Sangue Animal (Menos efetivo), ervas de acônito e sidreira. 
+
+Após realizarem a receita, eles vão para um local afastado e preparam o local para a batalha. Apenas uma cria vampírica aparece que é facilmente derrotada. Outros três monstruosidades desonhecidas parecidas com zumbis aparecem, que também são derrotados. Uma névoa logo em seguida se mostra a frente deles e que em seguida se mostra como Strahd Von Zarovich. Eles tem um diálogo, onde fora dos planos Yoskolo sem querer entrega que Ireena está localizada em Vallaki. Após esse diálogo, Strahd desaparece. 
+
+Voltando para a estalagem Água Azul, eles são encontrados por um trovador de histórias chamado Rictavio. Ele conta algumas histórias para os presentes da taverna. Depois disso, ele se encontra sozinho com Yoskolo e se mostra na realidade como Rudolph Van Richten. 
+
+|<img src="../../assets/images/van_richten.jpg" alt="Rudolph Van Richten" width="300"/> |
+|:----:|
+|*Rudolph Van Richten*|
+
+### <a name="sessao4"></a> Sessão 4 [VOD: <a href="https://youtu.be/8xP9e7toaEw" target="_blank"><ins>Parte 1</ins></a>]
+
+### <a name="sessao4"></a> Sessão 5 [VOD: Indisponível]
